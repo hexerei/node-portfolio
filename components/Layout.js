@@ -62,6 +62,9 @@ const Layout = ({ children, title }) => (
         font-size: 110%;
         background: #f0f0f0;
       }
+      p {
+        max-width: 80vw;
+      }
     `}
     </style>
   </div>
